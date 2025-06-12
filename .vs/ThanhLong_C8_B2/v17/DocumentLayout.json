@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data\\HocLapTrinh\\ThanhLong_C8\\ThanhLong_C8_B2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7749C92-71D2-4693-A953-E297BF90EAF3}|ThanhLong_C8_B2.vcxproj|D:\\Data\\HocLapTrinh\\ThanhLong_C8\\ThanhLong_C8_B2\\ThanhLong_C8_B2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7749C92-71D2-4693-A953-E297BF90EAF3}|ThanhLong_C8_B2.vcxproj|solutionrelative:ThanhLong_C8_B2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 99,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThanhLong_C8_B2.cpp",
+              "DocumentMoniker": "D:\\Data\\HocLapTrinh\\ThanhLong_C8\\ThanhLong_C8_B2\\ThanhLong_C8_B2.cpp",
+              "RelativeDocumentMoniker": "ThanhLong_C8_B2.cpp",
+              "ToolTip": "D:\\Data\\HocLapTrinh\\ThanhLong_C8\\ThanhLong_C8_B2\\ThanhLong_C8_B2.cpp",
+              "RelativeToolTip": "ThanhLong_C8_B2.cpp",
+              "ViewState": "AQIAACMBAAAAAAAAAAAAAJgGAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T14:44:18.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

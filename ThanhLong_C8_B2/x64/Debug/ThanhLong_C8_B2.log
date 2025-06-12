@@ -1,0 +1,21 @@
+﻿  ThanhLong_C8_B2.cpp
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(536,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(560,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(562,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(599,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(601,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(619,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(634,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(636,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(643,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(696,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(705,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(707,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(882,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(1013,2): warning C4102: 'A1': unreferenced label
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(1902,1): warning C4102: 'A1': unreferenced label
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(1923,7): warning C4101: 'key': unreferenced local variable
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(1995,1): warning C4102: 'A1': unreferenced label
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(2071,7): warning C4101: 'key': unreferenced local variable
+D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\ThanhLong_C8_B2.cpp(2127,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ThanhLong_C8_B2.vcxproj -> D:\Data\HocLapTrinh\ThanhLong_C8\ThanhLong_C8_B2\x64\Debug\ThanhLong_C8_B2.exe
